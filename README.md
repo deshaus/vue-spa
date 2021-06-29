@@ -1,11 +1,24 @@
-# vue-spa
-My first Vue SPA
+# test-app
 
-It was a test task from one of employer. 
+## Project setup
+```
+npm install
+```
 
-Main objectives was:
-1. To use Vue, Vuex, Vue-Router, Vuetify, Vue CLI
-2. To make a three pages (routes) site which includes:
-  a. "Gallery" (main page) with images.
-  b. "About me" with short story obout myself.
-  c. Selected image detailed information.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
